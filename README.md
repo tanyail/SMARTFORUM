@@ -1,2 +1,0 @@
-# SMARTFORUM
-sf
